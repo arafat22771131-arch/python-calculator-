@@ -36,5 +36,5 @@ A beginner-friendly command-line calculator built with Python.
 
 ## Author
 
-Arafat
+MD.YASIR ARAFAT
 
