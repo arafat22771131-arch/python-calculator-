@@ -1,25 +1,40 @@
 
-# Hi, I'm Arafat! 👋
+# Python Calculator 🧮
 
-💻 Aspiring Programmer | Python Learner
+A beginner-friendly command-line calculator built with Python.
 
-## About Me
-- 🌱 Currently learning Python
-- 🧮 Building my first Calculator project
-- 🤖 Interested in AI and automation
-- 🎯 Improving my coding and problem-solving skills
+## Features
 
-## Skills
-- Python (Beginner)
-- Git and GitHub (Learning)
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Input validation
+- Division-by-zero protection
+- Repeated calculations
 
-## My Projects
-- 🧮 Python Calculator — Basic arithmetic operations
+## Requirements
 
-## Goals
-- Build more Python projects
-- Learn web development
-- Explore AI and automation
+- Python 3
 
----
-Thanks for visiting my profile! 🚀
+## How to Run
+
+1. Install Python 3.
+2. Open a terminal in the project folder.
+3. Run:
+
+   python calculator.py
+
+## Concepts Learned
+
+- Variables and data types
+- User input and output
+- Conditional statements
+- Loops
+- Functions
+- Exception handling
+
+## Author
+
+Arafat
+
